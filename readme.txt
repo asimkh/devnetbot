@@ -1,11 +1,3 @@
-Navigation Images, Mate 9 product image sizes is incorrect.
-http://app.huawei.com/cmcms/servlet/ucmpreview?url=http://www-con.huawei.com/consumerpk/index.htm
-
-For List Pages, we have only 2 images for editing thats why we cannot add more. (Honor 8 and Nova Plus).
-http://app.huawei.com/cmcms/servlet/ucmpreview?url=http://www-con.huawei.com/consumerpk/mobile-phones/index.htm
-
-
-
 $ mkdir my-webapp
 $ cd my-webapp
 
