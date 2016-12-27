@@ -1,0 +1,18 @@
+{
+  "name": "devnet",
+  "version": "1.0.0",
+  "description": "messenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start" : "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "node-wit": "^4.2.0",
+    "request": "^2.79.0"
+  }
+}
